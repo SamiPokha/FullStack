@@ -1,0 +1,60 @@
+body {
+    background: #051836;
+    color: white;
+    margin-top: 50px;
+}
+
+.display {
+    width: 400px;
+    height: 300px;
+    background: black;
+    font-family: scoreboard;
+    border-radius: 10px;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    text-shadow: 0px 0px 5px red;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.title {
+    font-size: 100px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    text-shadow: 0px 0px 3px white;
+}
+
+@font-face {
+    font-family: scoreboard;
+    src: url(../Fonts/scoreboard.ttf)
+}
+
+.btn {
+    font-family: scoreboard;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    color: lightgray;
+    background-color: transparent;
+    border: 1px solid lightgray;
+    font-size: 25px;
+}
+
+.points {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn:hover {
+    background-color: grey;
+}
+

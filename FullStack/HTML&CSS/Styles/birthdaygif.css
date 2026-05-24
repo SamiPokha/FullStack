@@ -1,0 +1,82 @@
+body {
+    font-family: "Happy Monkey", system-ui;
+    text-align: center;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: white;
+    text-shadow: 0px 0px 1px black;
+}
+
+#b-pic {
+    border-radius: 50%;
+    width: 200px;
+    border: 6px solid #EFB0C9
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    margin: 5px 0 10px 0;
+    border-radius: 6px;
+}
+
+#bday-date {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 6px;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-img {
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://w0.peakpx.com/wallpaper/887/1003/HD-wallpaper-christmas-wrapping-christmas-bows-christmas-present-christmas-gift-red-christmas-thumbnail.jpg");
+    background-size: cover;
+    margin: auto;
+
+    background-size: cover;
+    background-position: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+#gift-img-happy:hover {
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g4NnNseHh1OTRuaTRzMXE4YzhveTJmM2lvY2kydWN4OXF2ZGI4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpTL6wXRuMQpMIVduB/giphy.gif);
+}
+
+#gift-img-hot:hover {
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc4eTg3b25ycXllaTlmcGRodzR2ODllamc3ZXFkdGI1MjRxdTJiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbAbh6CbK4r5dyaZ4i/giphy.gif");
+}
+
+#gift-img-genius:hover {
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2thbDE1c3NkY3BqZzFrbzZoNm90c2RwYnl6amNxZ2V6ZjZoYnoxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNKLBehxbnoqY/giphy.gif");
+}
+
+#gift-img-badass:hover {
+    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xob2N3c2p4bmZnM3o3bXByNHQ1Y2ZqczcwazR4NWN5ejVhcjJzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i6TQUuiT5hjSU/giphy.gif);
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF3MG9wMGFnbjR5ZHBydjBzN3o0dnBlZjkwYWM4MDg1NnR6bjQyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DfLwM9kttDFEQ/giphy.gif)
+}

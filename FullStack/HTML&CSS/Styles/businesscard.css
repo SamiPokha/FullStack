@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+    animation-name: myAnimation;
+    animation-duration: 10s;
+}
+
+.text:hover{
+    text-shadow: 2px 2px 5px;
+}
+
+@keyframes myAnimation{
+    from {
+        background: #ddebf8;
+        border-bottom: 5px solid #d8cefe;
+    }
+    to {
+        background: #d8cefe;
+        border-bottom: 5px solid #ddebf8
+    }
+}
