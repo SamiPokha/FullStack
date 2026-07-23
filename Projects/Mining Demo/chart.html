@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Data Visualisation</title>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://trifacta.github.io/vega/vega.js"></script>
+</head>
+<body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+    function parse(spec) {
+        vg.parse.spec(spec, function(chart) { 
+            chart({el: "#vis"}).update(); 
+        });
+    }
+    parse("terms_freq.json");
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+# Ignore virtual environments in ANY nested folder
+**/.venv/
+**/venv/
+**/env/
+
+# Ignore Python caches
+**/__pycache__/
+**/*.pyc
+
+# macOS system files
+**/.DS_Store

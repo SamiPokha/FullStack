@@ -1,0 +1,421 @@
+{"text": "nyx-node added to PyPI. Python bindings for NyxNode", "user_name": "Pypi.org", "created_at": "2026-07-05T20:13:24Z"}
+{"text": "nyx-node 1.0.0b1. Python bindings for NyxNode", "user_name": "Pypi.org", "created_at": "2026-07-05T20:13:24Z"}
+{"text": "wavedb 0.1.9. Python bindings for WaveDB - Hierarchical B+Trie Database", "user_name": "Pypi.org", "created_at": "2026-07-05T20:07:55Z"}
+{"text": "qtx-nav-core 0.2.2. Python NAV core client port skeleton", "user_name": "Pypi.org", "created_at": "2026-07-05T20:05:29Z"}
+{"text": "galaxdb-client 0.4.0. GalaxDB Python client -- SQL, vector search, and local embeddings in one database", "user_name": "Pypi.org", "created_at": "2026-07-05T20:03:32Z"}
+{"text": "betterhtmlchunking 0.11.0. A Python library for intelligent HTML segmentation and ROI extraction. It builds a DOM tree from raw HTML and extracts content-rich regions for efficient web scraping and analysis.", "user_name": "Pypi.org", "created_at": "2026-07-05T20:03:02Z"}
+{"text": "the-factory-client 0.1.0. Python client for The Factory \u2014 x402 micropayment agent for clean machine data", "user_name": "Pypi.org", "created_at": "2026-07-05T20:02:56Z"}
+{"text": "the-factory-client added to PyPI. Python client for The Factory \u2014 x402 micropayment agent for clean machine data", "user_name": "Pypi.org", "created_at": "2026-07-05T20:02:56Z"}
+{"text": "docx-parse-eval added to PyPI. Differential evaluation harness for .docx parsers: reference OOXML extraction vs any document-intelligence output (Docling, ...) on a shared schema", "user_name": "Pypi.org", "created_at": "2026-07-05T20:01:54Z"}
+{"text": "rpiclang 0.7.0. Python bindings for rpic \u2014 the pic graphics language \u2192 SVG/PNG/PDF with animation.", "user_name": "Pypi.org", "created_at": "2026-07-05T20:00:51Z"}
+{"text": "opengita added to PyPI. A modern Python SDK for Bhagavad Gita.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:55:43Z"}
+{"text": "ringgrid 0.10.1. Python bindings for ringgrid detector", "user_name": "Pypi.org", "created_at": "2026-07-05T19:54:39Z"}
+{"text": "pypdfbox 1.0.0rc1. Python-native port of Apache PDFBox-compatible APIs (Apache 2.0)", "user_name": "Pypi.org", "created_at": "2026-07-05T19:53:13Z"}
+{"text": "pypdfbox added to PyPI. Python-native port of Apache PDFBox-compatible APIs (Apache 2.0)", "user_name": "Pypi.org", "created_at": "2026-07-05T19:53:08Z"}
+{"text": "jsonschema-rs 0.46.10. A high-performance JSON Schema validator for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T19:51:54Z"}
+{"text": "ratel-ai-telemetry added to PyPI. Ratel telemetry conventions \u2014 the ratel.* overlay on OpenTelemetry gen_ai spans. init() helper and constants for the Ratel context engineering platform.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:50:55Z"}
+{"text": "frigidaire 0.18.48. Python API for the Frigidaire 2.0 App", "user_name": "Pypi.org", "created_at": "2026-07-05T19:50:13Z"}
+{"text": "mujoco-robot 0.0.1. A general Python interface class for robot simulations using MuJoCo.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:48:41Z"}
+{"text": "optropic 4.0.1. Official Python SDK for the Optropic Trust API", "user_name": "Pypi.org", "created_at": "2026-07-05T19:40:35Z"}
+{"text": "wald-lint 0.1.0. Statistical-integrity linter: flags survivorship bias, leakage, multiple testing and other inference flaws in notebooks \u2014 every flag with evidence, failure scenario and fix.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:40:07Z"}
+{"text": "turboadb 1.0.18. TurboADB \u2014 Android ADB + scrcpy device toolkit for automotive/embedded (Android Automotive OS / IVI) & general Android: Python API, CLI, and a full PyQt5 GUI.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:37:15Z"}
+{"text": "standard-deluxe 0.12.0. A handfull collection of python modules.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:35:44Z"}
+{"text": "runguard 0.1.2. Make Python functions safe to run more than once", "user_name": "Pypi.org", "created_at": "2026-07-05T19:35:08Z"}
+{"text": "sanmiao 0.2.9. A Python package for date conversion to and from Chinese and Japanese historical calendars", "user_name": "Pypi.org", "created_at": "2026-07-05T19:34:10Z"}
+{"text": "The full stack of terminals explained. Article URL: https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/\nComments URL: https://news.ycombinator.com/item?id=48797214\nPoints: 4\n# Comments: 0", "user_name": "Ahmadawais.com", "created_at": "2026-07-05T19:31:22Z"}
+{"text": "turboadb 1.0.17. TurboADB \u2014 Android ADB + scrcpy device toolkit for automotive/embedded (Android Automotive OS / IVI) & general Android: Python API, CLI, and a full PyQt5 GUI.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:25:39Z"}
+{"text": "coffee-cli 0.1.0. A polished Python terminal UI for coffee-themed developer workflows.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:25:10Z"}
+{"text": "coffee-cli added to PyPI. A polished Python terminal UI for coffee-themed developer workflows.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:25:06Z"}
+{"text": "pycostaudit 0.4.1. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T19:25:00Z"}
+{"text": "Adobe Substance 3D Designer 16.0.4. Description:\u00a03D Assets Creation. Limitless. Create, iterate.\u00a0Substance Designer\u00a0is the Ultimate 3D Material Authoring and Scan Processing Tool. It has become the standard in the entertainment industry for PBR material authoring. Discover the power of procedur\u2026", "user_name": "Rlsbb.cc", "created_at": "2026-07-05T19:24:22Z"}
+{"text": "pyrtlsdr 0.5.0. A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDRs)", "user_name": "Pypi.org", "created_at": "2026-07-05T19:23:49Z"}
+{"text": "vepyr 0.1.1. VEP Yielding Performant Results \u2014 Python interface for Ensembl VEP annotation in Rust", "user_name": "Pypi.org", "created_at": "2026-07-05T19:16:54Z"}
+{"text": "pitybas 0.2.0. A TI-BASIC interpreter written in Python", "user_name": "Pypi.org", "created_at": "2026-07-05T19:16:45Z"}
+{"text": "vepyr added to PyPI. VEP Yielding Performant Results \u2014 Python interface for Ensembl VEP annotation in Rust", "user_name": "Pypi.org", "created_at": "2026-07-05T19:16:42Z"}
+{"text": "homecom_alt 1.6.7. Python wrapper for controlling devices managed by HomeCom Easy APP.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:16:36Z"}
+{"text": "heormodel 0.6.0. Health economic evaluation in Python: PSA parameters, swappable model engines, cost-effectiveness analysis, and value of information", "user_name": "Pypi.org", "created_at": "2026-07-05T19:15:26Z"}
+{"text": "heormodel added to PyPI. Health economic evaluation in Python: PSA parameters, swappable model engines, cost-effectiveness analysis, and value of information", "user_name": "Pypi.org", "created_at": "2026-07-05T19:15:21Z"}
+{"text": "pycopg 1.2.0. High-level Python API for PostgreSQL/PostGIS/TimescaleDB", "user_name": "Pypi.org", "created_at": "2026-07-05T19:13:38Z"}
+{"text": "openxml-audit 0.7.6. Validate OOXML and ODF files in pure Python \u2014 no .NET required", "user_name": "Pypi.org", "created_at": "2026-07-05T19:13:08Z"}
+{"text": "pycat-napari 1.5.191. Python Condensate Analysis Toolbox - A napari-based tool for biomolecular condensate analysis", "user_name": "Pypi.org", "created_at": "2026-07-05T19:13:04Z"}
+{"text": "sidereon 0.17.0. Python bindings for the Sidereon GNSS positioning engine (SP3 loading and SPP/RTK/PPP solves)", "user_name": "Pypi.org", "created_at": "2026-07-05T19:12:05Z"}
+{"text": "turbossh 1.5.1. SSH / serial / SFTP toolkit for automotive & embedded work \u2014 a Python library, a CLI, and a PyQt5 GUI with a real VT100 terminal. Native serial-over-RDP and offline OpenSSH install included.", "user_name": "Pypi.org", "created_at": "2026-07-05T19:11:46Z"}
+{"text": "sanmiao 0.2.8. A Python package for date conversion to and from Chinese and Japanese historical calendars", "user_name": "Pypi.org", "created_at": "2026-07-05T19:09:55Z"}
+{"text": "pachinko-pybind 0.8.1. Python bindings, gym environment, and live-server SDK for Pachinko-RTS", "user_name": "Pypi.org", "created_at": "2026-07-05T19:08:16Z"}
+{"text": "pycentauri 0.6.0. Local-network toolkit for Elegoo Centauri Carbon 3D printers: async Python client, CLI, MCP server, REST/SSE HTTP server, web UI, and RTSP bridge", "user_name": "Pypi.org", "created_at": "2026-07-05T19:08:08Z"}
+{"text": "helio-client 0.9.0. Thin Python SDK for the Helio MCP governance proxy", "user_name": "Pypi.org", "created_at": "2026-07-05T19:07:41Z"}
+{"text": "qiita-v2-client 0.1.0. A typed Python wrapper for Qiita API v2", "user_name": "Pypi.org", "created_at": "2026-07-05T19:05:36Z"}
+{"text": "qiita-v2-client added to PyPI. A typed Python wrapper for Qiita API v2", "user_name": "Pypi.org", "created_at": "2026-07-05T19:05:35Z"}
+{"text": "Acorn 8.6.1. Acorn\u00a0is a new image editor built with one goal in mind \u2013 simplicity. Fast, easy, and fluid, Acorn provides the options you\u2019ll need without any overhead. Acorn feels right, and won\u2019t drain your bank account. Take screenshots using Acorn and edit them right aw\u2026", "user_name": "Rlsbb.cc", "created_at": "2026-07-05T19:05:05Z"}
+{"text": "pycostaudit 0.4.0. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T19:03:58Z"}
+{"text": "pycostaudit added to PyPI. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T19:03:58Z"}
+{"text": "Blue Wave: How Israel, Washington and a Guernsey Shell Company Stole Colombia\u2019s Election. Freddie Ponton21st Century Wire On the night of June 21, 2026, as Colombia\u2019s preliminary vote count rolled in showing far-right candidate Abelardo De La Espriella ahead of left-wing Iv\u00e1n Cepeda by less than one percentage point, the narrowest margin in any Co\u2026", "user_name": "Activistpost.com", "created_at": "2026-07-05T19:02:00Z"}
+{"text": "moles-tools 0.0.10. A collection of Python tools from the underground", "user_name": "Pypi.org", "created_at": "2026-07-05T19:01:19Z"}
+{"text": "purrdf 0.3.2. Python bindings for the PurRDF RDF 1.2 kernel, GTS carrier, SHACL, and slice tooling", "user_name": "Pypi.org", "created_at": "2026-07-05T18:59:40Z"}
+{"text": "pygenkit 0.2.4. Professional Python project generator \u2014 PyPI, APT, and Launchpad ready", "user_name": "Pypi.org", "created_at": "2026-07-05T18:59:32Z"}
+{"text": "sonolus.py 0.17.2. Sonolus engine development framework for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:59:13Z"}
+{"text": "claudeaudit added to PyPI. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:58:57Z"}
+{"text": "claudeaudit 0.4.0. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:58:57Z"}
+{"text": "obsigil 1.0.0. Pure-Python implementation of the obsigil mandate-token format (AES-SIV / AES-GCM-SIV)", "user_name": "Pypi.org", "created_at": "2026-07-05T18:58:02Z"}
+{"text": "unitysvc-py 0.1.11. Customer-facing Python SDK and `usvc` CLI for UnitySVC", "user_name": "Pypi.org", "created_at": "2026-07-05T18:57:45Z"}
+{"text": "simplegraphics-python 1.0.15. A simple graphics wrapper on top of tkinter", "user_name": "Pypi.org", "created_at": "2026-07-05T18:57:44Z"}
+{"text": "turboadb 1.0.16. TurboADB \u2014 Android ADB + scrcpy device toolkit for automotive/embedded (Android Automotive OS / IVI) & general Android: Python API, CLI, and a full PyQt5 GUI.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:56:48Z"}
+{"text": "veriqt 0.3.4. Python client library for Veriqt test automation framework", "user_name": "Pypi.org", "created_at": "2026-07-05T18:54:49Z"}
+{"text": "pycat-napari 1.5.190. Python Condensate Analysis Toolbox - A napari-based tool for biomolecular condensate analysis", "user_name": "Pypi.org", "created_at": "2026-07-05T18:52:01Z"}
+{"text": "peteksim 0.1.1. petekSim \u2014 fast field/discovery appraisal toolkit (Rust core, Python API): the facade over the petek subsurface-modelling stack.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:50:26Z"}
+{"text": "vgi-python 0.10.0. Vector Gateway Interface - Connect DuckDB to external programs via Apache Arrow", "user_name": "Pypi.org", "created_at": "2026-07-05T18:50:21Z"}
+{"text": "pyfulgur 0.28.0. Python bindings for fulgur \u2014 offline HTML/CSS to PDF conversion", "user_name": "Pypi.org", "created_at": "2026-07-05T18:49:46Z"}
+{"text": "pycost-reporter 0.4.0. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:49:17Z"}
+{"text": "prefact 0.1.67. Python code quality tool with LLM-aware rules, plugin system, and enterprise features", "user_name": "Pypi.org", "created_at": "2026-07-05T18:48:55Z"}
+{"text": "jaylog 0.2.6. Customized Python logging library with file rotation and HTTP forwarding", "user_name": "Pypi.org", "created_at": "2026-07-05T18:47:39Z"}
+{"text": "coremusic 0.2.3. Python bindings for Apple CoreAudio", "user_name": "Pypi.org", "created_at": "2026-07-05T18:45:03Z"}
+{"text": "fast-dash 0.5.4. Turn your Python functions into interactive web applications. Fast Dash is an innovative way to build and deploy your Python code as interactive apps with minimal changes to your original code.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:44:14Z"}
+{"text": "astro-burr added to PyPI. Autonomous calibration and observation scheduling for rapid-deploy SDA telescopes", "user_name": "Pypi.org", "created_at": "2026-07-05T18:44:11Z"}
+{"text": "momwire 0.3.0. A pure-Python method-of-moments antenna simulator with optional C++ accelerators", "user_name": "Pypi.org", "created_at": "2026-07-05T18:43:18Z"}
+{"text": "horus-environments 0.1.2. Automatically provision python virtual environments for Horus tasks.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:42:26Z"}
+{"text": "toothfairyai 0.8.4. Official Python SDK for ToothFairyAI API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:41:30Z"}
+{"text": "ankor 0.5.228. Standalone workflow automation and monitoring for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:40:49Z"}
+{"text": "pypddl 1.0.16. Python-distributed native package for the Loki PDDL parser library", "user_name": "Pypi.org", "created_at": "2026-07-05T18:38:21Z"}
+{"text": "leos-core added to PyPI. leOS-core (import name: lecore) -- the vector-symbolic core of leOS: memory, geometry, physics and more on one NumPy substrate.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:37:12Z"}
+{"text": "pycat-napari 1.5.189. Python Condensate Analysis Toolbox - A napari-based tool for biomolecular condensate analysis", "user_name": "Pypi.org", "created_at": "2026-07-05T18:36:37Z"}
+{"text": "state-mesh 0.1.1. Async-native agentic pipeline runtime for Python backend engineers", "user_name": "Pypi.org", "created_at": "2026-07-05T18:34:38Z"}
+{"text": "peprs 0.2.4. Rust-powered PEP sample metadata toolkit for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:34:27Z"}
+{"text": "simple-saga 0.1.6. A lightweight implementation of the Saga pattern for managing distributed transactions in Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:33:31Z"}
+{"text": "betfairstudio added to PyPI. Betfair Exchange horse racing feature collector for odds modeling", "user_name": "Pypi.org", "created_at": "2026-07-05T18:31:52Z"}
+{"text": "archunitpython 1.3.0. Architecture testing library for Python projects. Enforce dependency rules, detect cycles, validate metrics.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:31:30Z"}
+{"text": "python-bsblan 6.1.6. Asynchronous Python client for BSBLAN API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:30:55Z"}
+{"text": "backtestchat added to PyPI. Local-first agentic strategy lab CLI: chat, backtest, and paper-trade long/flat strategies on keyless Binance public data.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:30:50Z"}
+{"text": "qsag-core 0.2.3. No longer maintained Python package.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:30:48Z"}
+{"text": "memory-bridge-mcp added to PyPI. Unified MCP memory server bridging Mind (concept graph) and Honcho (semantic vector) memory with episodic timeline and LLM synthesis", "user_name": "Pypi.org", "created_at": "2026-07-05T18:30:08Z"}
+{"text": "python-pptx-rs 0.0.1. Rust-powered, python-pptx-compatible library for PowerPoint (.pptx) files", "user_name": "Pypi.org", "created_at": "2026-07-05T18:29:37Z"}
+{"text": "python-pptx-rs added to PyPI. Rust-powered, python-pptx-compatible library for PowerPoint (.pptx) files", "user_name": "Pypi.org", "created_at": "2026-07-05T18:29:31Z"}
+{"text": "nlp2dsl 0.0.42. Reusable Python SDK for the NLP2DSL platform", "user_name": "Pypi.org", "created_at": "2026-07-05T18:29:04Z"}
+{"text": "pycost-reporter 0.3.0. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:28:57Z"}
+{"text": "pyccolo 0.0.92. Declarative instrumentation for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:28:26Z"}
+{"text": "b2b-revenue-forecasting 0.5.0. A Python framework for hierarchical B2B sales quota cascading and pipeline reconciliation.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:28:15Z"}
+{"text": "pachinko-pybind 0.8.0. Python bindings, gym environment, and live-server SDK for Pachinko-RTS", "user_name": "Pypi.org", "created_at": "2026-07-05T18:27:06Z"}
+{"text": "rubric-sdk added to PyPI. Lightweight tracing SDK for the Rubric LLM eval + observability platform", "user_name": "Pypi.org", "created_at": "2026-07-05T18:26:02Z"}
+{"text": "scrapedatshi 0.5.4. Official Python SDK for the scrapedatshi RAG pipeline API", "user_name": "Pypi.org", "created_at": "2026-07-05T18:24:42Z"}
+{"text": "coordination-memory-mcp added to PyPI. Local MCP server for append-only multi-agent coordination memory with an integrator-owned accepted projection and goal-level acceptance contracts.", "user_name": "Pypi.org", "created_at": "2026-07-05T18:24:36Z"}
+{"text": "reglscatterpy 0.6.36. Interactive WebGL scatterplots for single-cell data (AnnData/MuData/SpatialData) in Jupyter, VS Code and Shiny for Python", "user_name": "Pypi.org", "created_at": "2026-07-05T18:23:56Z"}
+{"text": "typed-ffmpeg 4.3. Modern Python & TypeScript FFmpeg wrappers with comprehensive typing (latest version)", "user_name": "Pypi.org", "created_at": "2026-07-06T18:26:37Z"}
+{"text": "sibyl-memory-hermes 0.3.13. Sibyl Memory SDK + bundled Hermes plugin payload. Local-first, SQLite-backed, structured-tier memory for Hermes v0.13+ (and any other Python orchestration that wants direct SDK access).", "user_name": "Pypi.org", "created_at": "2026-07-06T18:21:20Z"}
+{"text": "pycostaudit 0.8.2. Real-time LLM cost tracking and optimization \u2014 Rust core with Python API", "user_name": "Pypi.org", "created_at": "2026-07-06T18:20:13Z"}
+{"text": "mcp-shellcheck added to PyPI. ShellCheck MCP Server for AI code analysis", "user_name": "Pypi.org", "created_at": "2026-07-06T18:18:36Z"}
+{"text": "Show HN: Skeights \u2013 Serialize sklearn models to safetensors and JSON, no pickle. We use sklearn in production for time series forecasting in industrial settings. Pickle was causing us constant pain: refactoring our wrapper classes invalidated saved models, and the binary blobs were completely opaque.We built skeights to decompose a fitted\u2026", "user_name": "Github.com", "created_at": "2026-07-06T18:18:21Z"}
+{"text": "mergepy 1.2.3. A cli-based python tool designed to merge 2 files together interactively (using textual and python's difflib)", "user_name": "Pypi.org", "created_at": "2026-07-06T18:17:42Z"}
+{"text": "nonebot-plugin-ruok added to PyPI. Bot health monitoring, session tracking, and WebUI for NoneBot2", "user_name": "Pypi.org", "created_at": "2026-07-06T18:14:54Z"}
+{"text": "lbt-dragonfly 0.13.153. Collection of all Dragonfly core Python libraries", "user_name": "Pypi.org", "created_at": "2026-07-06T18:14:14Z"}
+{"text": "arl-env 0.19.7. ARL Infrastructure - Python SDK for Kubernetes-based Agent Runtime Layer", "user_name": "Pypi.org", "created_at": "2026-07-06T18:14:03Z"}
+{"text": "turboadb 1.1.1. TurboADB \u2014 Android ADB + scrcpy device toolkit for automotive/embedded (Android Automotive OS / IVI) & general Android: Python API, CLI, and a full PyQt5 GUI.", "user_name": "Pypi.org", "created_at": "2026-07-06T18:13:50Z"}
+{"text": "floe-python 0.6.7. Python bindings for floe-core \u2014 run floe pipelines at Rust speed from Python and notebooks", "user_name": "Pypi.org", "created_at": "2026-07-06T18:12:53Z"}
+{"text": "langchain-apple-foundation-models added to PyPI. LangChain chat model provider for Apple's on-device Foundation Models framework", "user_name": "Pypi.org", "created_at": "2026-07-06T18:10:25Z"}
+{"text": "bausatz added to PyPI. Config-driven component trees: pydantic-validated classes that self-register by tag and assemble recursively from plain dict/JSON specs", "user_name": "Pypi.org", "created_at": "2026-07-06T18:07:14Z"}
+{"text": "AMD Ryzen AI Halo First Look: Giant Local AI Power in a Pint-Sized Box. I\u2019ve received one of AMD\u2019s first official AI developer boxes for testing, and it\u2019s an impressive piece of AI hardware with a super-simple setup.\nFor months, Nvidia has dazzled the world of AI hardware with DGX Spark, its so-called \"personal supercomputer\" in \u2026", "user_name": "PCMag.com", "created_at": "2026-07-06T18:07:11Z"}
+{"text": "arl-env 0.19.6. ARL Infrastructure - Python SDK for Kubernetes-based Agent Runtime Layer", "user_name": "Pypi.org", "created_at": "2026-07-06T18:07:10Z"}
+{"text": "openbox-sdk-python 1.0.0. OpenBox base SDK - governance contracts, strict gate, identity/signing, evaluate client, context runtime, OTel span wire serialization, and generic instrumentation shared by every OpenBox framework SDK", "user_name": "Pypi.org", "created_at": "2026-07-06T18:06:49Z"}
+{"text": "baml-core 0.13.1.dev2026070603. BAML python bindings (new system, bex_engine)", "user_name": "Pypi.org", "created_at": "2026-07-06T18:06:12Z"}
+{"text": "breez-sdk-spark 0.18.0.dev4. Python language bindings for the Breez Spark SDK", "user_name": "Pypi.org", "created_at": "2026-07-06T18:05:48Z"}
+{"text": "runworthy added to PyPI. Agent operations scanner \u2014 grades a repo against the Agent Flight Rules (AFR) with a plain-English GO / NO-GO / PROVISIONAL verdict. Orchestrates open-source scanners (SkillSpector, gitleaks, OSV-Scanner) behind an interpretation layer. Defensive tooling.", "user_name": "Pypi.org", "created_at": "2026-07-06T18:05:12Z"}
+{"text": "cybrid-api-id-python 0.129.562. Cybrid Identity API", "user_name": "Pypi.org", "created_at": "2026-07-06T18:04:49Z"}
+{"text": "hub2gos 0.3.0. A Python compiler to map UCSC Track Hub configurations to Gosling.js specs.", "user_name": "Pypi.org", "created_at": "2026-07-06T18:04:46Z"}
+{"text": "counted-float 1.2.1. Count floating-point operations in Python code & benchmark relative flop costs.", "user_name": "Pypi.org", "created_at": "2026-07-06T18:02:37Z"}
+{"text": "caesura-io-openai 1.0.4. Transparent wrapper for the OpenAI Python SDK to inject Caesura recommendations.", "user_name": "Pypi.org", "created_at": "2026-07-06T18:02:16Z"}
+{"text": "totalreclaw 2.4.6rc4. End-to-end encrypted memory for AI agents \u2014 Python client (Memory Taxonomy v1)", "user_name": "Pypi.org", "created_at": "2026-07-06T18:01:01Z"}
+{"text": "pntos-cobra 2.1.0.post0.dev3. A Python implementation of a set of pntOS example plugins.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:59:01Z"}
+{"text": "ankor 0.5.240. Standalone workflow automation and monitoring for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:58:55Z"}
+{"text": "arl-env 0.19.5. ARL Infrastructure - Python SDK for Kubernetes-based Agent Runtime Layer", "user_name": "Pypi.org", "created_at": "2026-07-06T17:57:30Z"}
+{"text": "AWS CloudWatch adds dynamic instrumentation for live application debugging. Amazon CloudWatch Application Signals now includes a dynamic instrumentation feature that captures runtime state from live applications. This capability allows for the inspection of method arguments, return values, and stack traces at specific code locations \u2026", "user_name": "4sysops.com", "created_at": "2026-07-06T17:57:25Z"}
+{"text": "authlx-sdk 1.0.0. Official Python SDK for AuthLX \u2014 Premium Authentication, Licensing, and Security System.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:57:18Z"}
+{"text": "authlx-sdk added to PyPI. Official Python SDK for AuthLX \u2014 Premium Authentication, Licensing, and Security System.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:57:18Z"}
+{"text": "taskbroker-client 0.20.12. Taskbroker python client and worker runtime", "user_name": "Pypi.org", "created_at": "2026-07-06T17:57:10Z"}
+{"text": "pip-verv 0.2.0. Dependency freshness auditor for Python projects", "user_name": "Pypi.org", "created_at": "2026-07-06T17:57:04Z"}
+{"text": "openrewrite-static-analysis 0.3.0.dev20260706175459. OpenRewrite static analysis and code cleanup recipes for Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:56:56Z"}
+{"text": "indices 0.5.0. The official Python library for the Indices API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:56:56Z"}
+{"text": "mlhelper-ai added to PyPI. A Python library for machine learning preprocessing and utilities.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:55:57Z"}
+{"text": "mlhelper-ai 0.1.0. A Python library for machine learning preprocessing and utilities.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:55:57Z"}
+{"text": "skribe 0.1.0. LLM-powered estimators that inscribe prediction logic as standalone Python functions", "user_name": "Pypi.org", "created_at": "2026-07-06T17:55:26Z"}
+{"text": "skribe added to PyPI. LLM-powered estimators that inscribe prediction logic as standalone Python functions", "user_name": "Pypi.org", "created_at": "2026-07-06T17:55:26Z"}
+{"text": "zanii 0.5.1. Zanii Python SDK \u2014 verifiable identity and proof-of-action for AI agents", "user_name": "Pypi.org", "created_at": "2026-07-06T17:55:06Z"}
+{"text": "openrewrite-migrate-python 0.10.0.dev20260706175308. OpenRewrite recipes for migrating Python codebases to newer Python versions.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:54:36Z"}
+{"text": "wpnews 1.6.1. Python SDK for wpnews.pro \u2014 real-time AI & tech news API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:54:26Z"}
+{"text": "wpnews added to PyPI. Python SDK for wpnews.pro \u2014 real-time AI & tech news API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:54:26Z"}
+{"text": "alibabacloud-tablestore20201209 3.2.0. Alibaba Cloud Tablestore (20201209) SDK Library for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:53:09Z"}
+{"text": "Show HN: Focal Harvest \u2013 CLI research pipeline to search, scrape and notify. An interactive CLI research assistant that scrapes, sanitizes, and synthesizes web content locally or via Gemini/OpenAI/Claude, with Discord/Telegram alerts &amp; built-in automation. - techno-neig...", "user_name": "Github.com", "created_at": "2026-07-06T17:53:07Z"}
+{"text": "How To Stop Arguments From Spiraling. The healthiest couples don't avoid conflict. They know how to stop it from spiraling. One simple skill can make all the difference.", "user_name": "Psychology Today", "created_at": "2026-07-06T17:52:54Z"}
+{"text": "alibabacloud-cloudauth-intl20220809 3.22.0. Alibaba Cloud Cloudauth-intl (20220809) SDK Library for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:52:45Z"}
+{"text": "alibabacloud-ims20190815 3.4.0. Alibaba Cloud Ims (20190815) SDK Library for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:51:52Z"}
+{"text": "oasis-api 4.3.2. Python API for the Open Acquisition System for IEPE Sensors (OASIS)", "user_name": "Pypi.org", "created_at": "2026-07-06T17:51:51Z"}
+{"text": "arl-env 0.19.4. ARL Infrastructure - Python SDK for Kubernetes-based Agent Runtime Layer", "user_name": "Pypi.org", "created_at": "2026-07-06T17:49:08Z"}
+{"text": "cfdm 1.13.2.1. A Python reference implementation of the CF data model", "user_name": "Pypi.org", "created_at": "2026-07-06T17:48:36Z"}
+{"text": "onvif-zeep-async 4.2.1. Async Python Client for ONVIF Camera", "user_name": "Pypi.org", "created_at": "2026-07-06T17:47:41Z"}
+{"text": "kernel 0.74.0. The official Python library for the kernel API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:46:04Z"}
+{"text": "treeship-sdk 0.16.0. Python SDK for Treeship - portable trust receipts for agent workflows", "user_name": "Pypi.org", "created_at": "2026-07-06T17:44:46Z"}
+{"text": "analog-sdk 0.12.0. Python SDK for Analog \u2014 the perception layer for LLMs. Understand any website, in a format built for AIs.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:40:23Z"}
+{"text": "fluid-blends 6.2.0. A Python library to generate and query ASTs, CFGs, and syntax graphs from multi-language source code", "user_name": "Pypi.org", "created_at": "2026-07-06T17:40:17Z"}
+{"text": "counted-float 1.2.0. Count floating-point operations in Python code & benchmark relative flop costs.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:40:09Z"}
+{"text": "archil 0.8.19. Pure-Python client for Archil disks", "user_name": "Pypi.org", "created_at": "2026-07-06T17:40:05Z"}
+{"text": "nwp500-python 9.2.0. A library for controlling Navien NWP500 Water Heaters via NaviLink", "user_name": "Pypi.org", "created_at": "2026-07-06T17:39:38Z"}
+{"text": "arrakis 0.13.1. Python client library for the Arrakis low-latency timeseries data distribution platform", "user_name": "Pypi.org", "created_at": "2026-07-06T17:38:19Z"}
+{"text": "pyfeuxdeforet-fr 0.1.0. Async Python client for the feuxdeforet.fr unofficial API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:37:26Z"}
+{"text": "pyfeuxdeforet-fr added to PyPI. Async Python client for the feuxdeforet.fr unofficial API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:37:22Z"}
+{"text": "lila-framework 1.2.4. Framework web Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:37:13Z"}
+{"text": "helix-connect 3.3.0. Official Python SDK for Helix Connect Data Marketplace", "user_name": "Pypi.org", "created_at": "2026-07-06T17:36:06Z"}
+{"text": "ijson 3.5.1. Iterative JSON parser with standard Python iterator interfaces", "user_name": "Pypi.org", "created_at": "2026-07-06T17:36:03Z"}
+{"text": "big-talk-ai 1.6.0. The lightweight, middleware-first LLM framework for Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:35:10Z"}
+{"text": "warp-commerce-types 1.5.0. Formal commerce types generated from the Warp Commerce Model \u2014 typed money, validated state transitions, and the six commerce invariants. The Python twin of @warp-lang/commerce-types.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:35:01Z"}
+{"text": "hiveminded-ai 0.1.0. Official Python SDK and command line interface for the Hive Minded AI beekeeping management API.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:34:57Z"}
+{"text": "hiveminded-ai added to PyPI. Official Python SDK and command line interface for the Hive Minded AI beekeeping management API.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:34:52Z"}
+{"text": "pymkdb-client 0.1.12. Python client SDK for MkDB \u2014 connects via TCP socket or HTTP.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:34:20Z"}
+{"text": "pitybas 0.5.0. A TI-BASIC interpreter written in Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:34:06Z"}
+{"text": "arl-env 0.19.3. ARL Infrastructure - Python SDK for Kubernetes-based Agent Runtime Layer", "user_name": "Pypi.org", "created_at": "2026-07-06T17:34:03Z"}
+{"text": "ankor 0.5.239. Standalone workflow automation and monitoring for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:33:44Z"}
+{"text": "dnaerys 0.2.0. Python client library for the Dnaerys genome variant store", "user_name": "Pypi.org", "created_at": "2026-07-06T17:33:43Z"}
+{"text": "openbox-sdk-python 0.2.0. OpenBox base SDK - governance contracts, strict gate, identity/signing, evaluate client, context runtime, OTel span wire serialization, and generic instrumentation shared by every OpenBox framework SDK", "user_name": "Pypi.org", "created_at": "2026-07-06T17:32:56Z"}
+{"text": "openbox-sdk-python added to PyPI. OpenBox base SDK - governance contracts, strict gate, identity/signing, evaluate client, context runtime, OTel span wire serialization, and generic instrumentation shared by every OpenBox framework SDK", "user_name": "Pypi.org", "created_at": "2026-07-06T17:32:47Z"}
+{"text": "pyfulgur 0.30.0. Python bindings for fulgur \u2014 offline HTML/CSS to PDF conversion", "user_name": "Pypi.org", "created_at": "2026-07-06T17:32:29Z"}
+{"text": "webspec-index 0.11.0. Python bindings for webspec-index: query WHATWG/W3C/TC39/IETF web specifications", "user_name": "Pypi.org", "created_at": "2026-07-06T17:32:03Z"}
+{"text": "axdata 0.1.1. Open-source quantitative database framework and Python SDK.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:31:10Z"}
+{"text": "hyperlink-python-sdk 0.24.0. SDK for HyperLink API trading with Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:30:46Z"}
+{"text": "hyperlink-python-sdk added to PyPI. SDK for HyperLink API trading with Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:30:41Z"}
+{"text": "krepis 0.11.1. krepis (Greek \u03ba\u03c1\u03b7\u03c0\u03af\u03c2 \u2014 the foundation a structure stands on): general-purpose Python primitives for production data and LLM pipelines on AWS \u2014 logging, SSM secrets, Telegram/SNS alerts, bounded-backoff HTTP retry, S3 writer locks, the Anthropic payload chokep\u2026", "user_name": "Pypi.org", "created_at": "2026-07-06T17:30:11Z"}
+{"text": "cybrid-api-id-python 0.129.561. Cybrid Identity API", "user_name": "Pypi.org", "created_at": "2026-07-06T17:29:01Z"}
+{"text": "dbt-mcp-server added to PyPI. MCP server that exposes a dbt project's manifest.json to claude \u2014 lineage, docs coverage, and test failures in plain english.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:28:39Z"}
+{"text": "python-sqlite3-orm 2.2.1. A simple ORM for SQLite databases in Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:27:34Z"}
+{"text": "synqly-typeless 1.0.156. Synqly Python SDK (typeless engine variant)", "user_name": "Pypi.org", "created_at": "2026-07-06T17:23:15Z"}
+{"text": "anycloud-sdk 0.1.42. Python SDK for anycloud \u2014 submit jobs, run workloads on any cloud", "user_name": "Pypi.org", "created_at": "2026-07-06T17:19:26Z"}
+{"text": "llama-cpp-py 0.1.35. Python wrapper for running the llama.cpp server", "user_name": "Pypi.org", "created_at": "2026-07-06T17:19:17Z"}
+{"text": "zlayer 0.14.2. Python bindings for ZLayer, a lightweight Rust-based container orchestrator with built-in networking, scaling, and observability.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:18:00Z"}
+{"text": "oasis-api 4.3.1. Python API for the Open Acquisition System for IEPE Sensors (OASIS)", "user_name": "Pypi.org", "created_at": "2026-07-06T17:17:31Z"}
+{"text": "wavedb 0.1.14. Python bindings for WaveDB - Hierarchical B+Trie Database", "user_name": "Pypi.org", "created_at": "2026-07-06T17:16:11Z"}
+{"text": "dsd-cloudron added to PyPI. A plugin for django-simple-deploy, supporting deployments to Cloudron.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:15:51Z"}
+{"text": "ibis-dune added to PyPI. Query Dune Analytics with Ibis table expressions (Trino + automatic REST fallback)", "user_name": "Pypi.org", "created_at": "2026-07-06T17:13:59Z"}
+{"text": "maximem-synap 0.3.0. Python SDK for MaximemSynap context management system", "user_name": "Pypi.org", "created_at": "2026-07-06T17:12:45Z"}
+{"text": "openbadgeslib 3.4.1. Production-ready Python library & CLI for Open Badges 3.0 (W3C Verifiable Credentials): issue, verify, and revoke JWT-VC credentials with Bitstring Status Lists and did:web \u2014 plus strict OB 2.0 and legacy OB 1.0.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:11:46Z"}
+{"text": "zlayer-sdk 0.14.2. ZLayer Plugin Development Kit for Python", "user_name": "Pypi.org", "created_at": "2026-07-06T17:09:53Z"}
+{"text": "python-sqlite3-orm 2.2.0. A simple ORM for SQLite databases in Python.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:09:25Z"}
+{"text": "wvlet 2026.2.0. Python SDK for Wvlet - A flow-style query language", "user_name": "Pypi.org", "created_at": "2026-07-06T17:07:15Z"}
+{"text": "ezsnake 0.3.11. Paquete Python para manipulaci\u00f3n sencilla de Word, datos y NetCDF. Python package for easy handling of Word, data, and NetCDF files. Doc: https://github.com/Fernandojbf123/ezsnake", "user_name": "Pypi.org", "created_at": "2026-07-06T17:05:15Z"}
+{"text": "model-language 1.0.3. Python bindings for model-language \u2014 a typed, safe template language for AI-agent prompts. Runs the exact same engine as the TypeScript package via a WebAssembly (WASI) module.", "user_name": "Pypi.org", "created_at": "2026-07-06T17:05:06Z"}
+{"text": "Show HN:I Made a Mac Native Excalidraw (Open Sourced). Article URL: https://github.com/zpphxd/whitespace\nComments URL: https://news.ycombinator.com/item?id=48807479\nPoints: 3\n# Comments: 2", "user_name": "Github.com", "created_at": "2026-07-06T17:04:55Z"}
+{"text": "types-tde4 0.1.6. Type stubs for the 3DEqualizer4 Python module tde4.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:15:55Z"}
+{"text": "py-seaaroundus 1.0.0. Python wrapper for the Sea Around Us fisheries catch API", "user_name": "Pypi.org", "created_at": "2026-07-08T21:15:13Z"}
+{"text": "py-seaaroundus added to PyPI. Python wrapper for the Sea Around Us fisheries catch API", "user_name": "Pypi.org", "created_at": "2026-07-08T21:15:13Z"}
+{"text": "qualys-cli added to PyPI. Command-line interface for the Qualys REST APIs (VM, PC, PM, ETM, WAS, TC, CA, CS, CSAM, Sub, Asset, User).", "user_name": "Pypi.org", "created_at": "2026-07-08T21:14:19Z"}
+{"text": "instruktai-python-logger 0.6.2. Centralized logging utilities for Python services.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:13:06Z"}
+{"text": "ibge-geodata 2.0.3. Python package to use spatial data of Brazilian territorial levels available at IBGE", "user_name": "Pypi.org", "created_at": "2026-07-08T21:12:45Z"}
+{"text": "gauntlex-ai added to PyPI. Adversarial Co-Generation Engine \u2014 concurrent Builder + Breaker agents for production-grade AI-generated code", "user_name": "Pypi.org", "created_at": "2026-07-08T21:12:22Z"}
+{"text": "multiscript-windows added to PyPI. A lightweight wrapper to run Batch and VBScript within Python.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:11:59Z"}
+{"text": "multiscript-windows 1.0.0. A lightweight wrapper to run Batch and VBScript within Python.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:11:59Z"}
+{"text": "types-tde4 0.1.5. Type stubs for the 3DEqualizer4 Python module tde4.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:11:45Z"}
+{"text": "ibge-geodata 2.0.2. Python package to use spatial data of Brazilian territorial levels available at IBGE", "user_name": "Pypi.org", "created_at": "2026-07-08T21:10:55Z"}
+{"text": "narrativeengine 0.3.7. Python SDK for NarrativeEngine, powered by Rust and PyO3.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:10:44Z"}
+{"text": "agentmaker 0.1.0. A general-purpose Python framework for building LLM agents and multi-agent systems, with tools, memory, retrieval / RAG, context engineering, guardrails, human-in-the-loop, and observability.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:10:43Z"}
+{"text": "agentmaker added to PyPI. A general-purpose Python framework for building LLM agents and multi-agent systems, with tools, memory, retrieval / RAG, context engineering, guardrails, human-in-the-loop, and observability.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:10:39Z"}
+{"text": "nap-sdk 0.3.7. Python SDK for NAP (Narrative Addressing Protocol), powered by Rust and PyO3.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:10:24Z"}
+{"text": "tagoio-sdk 5.1.3. Official Python SDK for TagoIO", "user_name": "Pypi.org", "created_at": "2026-07-08T21:09:33Z"}
+{"text": "writer 1.29.0rc3. An open-source, Python framework for building feature-rich apps that are fully integrated with the Writer platform.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:09:27Z"}
+{"text": "hotdata-framework 0.6.2. Python framework for building Hotdata integrations: workspace/session runtime, query execution, and managed databases", "user_name": "Pypi.org", "created_at": "2026-07-08T21:09:25Z"}
+{"text": "aann 0.1.1. Approximate all-nearest-neighbor search using neighborhood graphs, implemented in Rust with Python bindings.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:08:56Z"}
+{"text": "holoso 0.1.12. A simple Python-to-Verilog synthesizer for numeric kernels, control systems, and DSP.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:08:55Z"}
+{"text": "zscaler-sdk-python 1.9.37. Official Python SDK for the Zscaler Products", "user_name": "Pypi.org", "created_at": "2026-07-08T21:08:46Z"}
+{"text": "gridpin added to PyPI. Placeholder for gridpin \u2014 offline geocoder in a single file (pre-release). See https://gridpin.dev", "user_name": "Pypi.org", "created_at": "2026-07-08T21:07:53Z"}
+{"text": "kognios 1.1.7. A from-scratch Python agent framework with Tools, Memory, Knowledge/RAG, Team routing, streaming, and async.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:07:38Z"}
+{"text": "rda-python-dsupdt 3.0.4. RDA Python Package to update RDA operational datasets", "user_name": "Pypi.org", "created_at": "2026-07-08T21:05:46Z"}
+{"text": "types-tde4 0.1.4. Type stubs for the 3DEqualizer4 Python module tde4.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:04:35Z"}
+{"text": "ibge-geodata 2.0.1. Python package to use spatial data of Brazilian territorial levels available at IBGE", "user_name": "Pypi.org", "created_at": "2026-07-08T21:02:43Z"}
+{"text": "agentic-hil added to PyPI. Agentic hardware-in-the-loop tools for AI-assisted embedded firmware loops", "user_name": "Pypi.org", "created_at": "2026-07-08T21:00:48Z"}
+{"text": "videogen 1.1.8. Official Python SDK for the VideoGen API. Programmatically generate images, videos, voiceovers, sound effects, and avatars.", "user_name": "Pypi.org", "created_at": "2026-07-08T21:00:44Z"}
+{"text": "Show HN: Mark Highlight, a Xcode-Style VSCode Extension. Article URL: https://marketplace.visualstudio.com/items?itemName=JulianAnthes.vscode-mark-highlight\nComments URL: https://news.ycombinator.com/item?id=48837352\nPoints: 1\n# Comments: 0", "user_name": "Visualstudio.com", "created_at": "2026-07-08T21:00:12Z"}
+{"text": "silabeador 1.2.4.post1. A Python library of methods and functions for syllabic division and prosodic stress detecting for Spanish", "user_name": "Pypi.org", "created_at": "2026-07-08T20:59:20Z"}
+{"text": "python-ics 923.11.post6.dev0. Python wrapper for interfacing to IntrepidCS Hardware.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:58:53Z"}
+{"text": "pycat-napari 1.5.295. Python Condensate Analysis Toolbox - A napari-based tool for biomolecular condensate analysis", "user_name": "Pypi.org", "created_at": "2026-07-08T20:58:36Z"}
+{"text": "athenaintel 0.1.1857. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-08T20:57:28Z"}
+{"text": "albert 1.33.0. The official Python SDK for the Albert Invent platform.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:57:23Z"}
+{"text": "forte-sdk 1.0.278. Official Python SDK for Forte Platforms", "user_name": "Pypi.org", "created_at": "2026-07-08T20:55:36Z"}
+{"text": "dji-drone-metadata-embedder 1.15.0. Python CLI for embedding DJI drone telemetry from SRT logs into MP4 videos", "user_name": "Pypi.org", "created_at": "2026-07-08T20:55:01Z"}
+{"text": "mmif-python 1.5.3. Python implementation of MultiMedia Interchange Format specification. (https://mmif.clams.ai)", "user_name": "Pypi.org", "created_at": "2026-07-08T20:52:20Z"}
+{"text": "hyperbrowser 0.93.1. Python SDK for hyperbrowser", "user_name": "Pypi.org", "created_at": "2026-07-08T20:51:56Z"}
+{"text": "surveyjs 0.4.2. Python API for SurveyJS Creator (Form Builder) JSON schema and Form response JSON.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:51:19Z"}
+{"text": "seekrai 0.25.0. Python client for SeekrAI", "user_name": "Pypi.org", "created_at": "2026-07-08T20:48:15Z"}
+{"text": "iscache 0.4.1. Distributed in-memory cache framework for Python with LRU, LFU, and TTL eviction policies", "user_name": "Pypi.org", "created_at": "2026-07-08T20:46:48Z"}
+{"text": "pyGWRetrieval 0.2.0. A Python package for retrieving USGS groundwater level data", "user_name": "Pypi.org", "created_at": "2026-07-08T20:46:32Z"}
+{"text": "policyengine-uk-compiled 0.58.0. Compiled UK tax-benefit microsimulation engine (Rust binary with Python interface)", "user_name": "Pypi.org", "created_at": "2026-07-08T20:46:18Z"}
+{"text": "types-tde4 0.1.3. Type stubs for the 3DEqualizer4 Python module tde4.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:45:15Z"}
+{"text": "pywizlight 0.6.5. A python connector for WiZ light bulbs (e.g SLV Play)", "user_name": "Pypi.org", "created_at": "2026-07-08T20:43:45Z"}
+{"text": "kestrel-workflows 0.35.0. Python SDK for Kestrel Workflows", "user_name": "Pypi.org", "created_at": "2026-07-08T20:43:02Z"}
+{"text": "astrosequence-explorer 1.0.1. A cross-platform GUI for full-field astronomical time-series photometry, variable-star candidate detection, plate solving, and Gaia/VSX catalog matching.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:42:56Z"}
+{"text": "tdfs4ds 0.3.1.139. A python package to simplify the usage of feature store using Teradata Vantage ...", "user_name": "Pypi.org", "created_at": "2026-07-08T20:42:52Z"}
+{"text": "agent-relay-sdk 9.2.3. Python SDK for Agent Relay workflows", "user_name": "Pypi.org", "created_at": "2026-07-08T20:42:29Z"}
+{"text": "geompp 0.12.0. Python bindings for geompp \u2014 a C++ 2D/3D geometry library", "user_name": "Pypi.org", "created_at": "2026-07-08T20:41:08Z"}
+{"text": "datap-rs-client 0.6.2. Python client for a DataPress dataset server, backed by the native Rust client (datapress-client).", "user_name": "Pypi.org", "created_at": "2026-07-08T20:38:49Z"}
+{"text": "rainbowminer-api-client 0.2.1. A Python API Client for the RainbowMiner multipool cryptominer.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:38:41Z"}
+{"text": "types-tde4 0.1.2. Type stubs for the 3DEqualizer4 Python module tde4.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:38:02Z"}
+{"text": "python-ics 1!26.3.9. Python wrapper for interfacing to IntrepidCS Hardware.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:37:54Z"}
+{"text": "Turning a pile of documents into a searchable useable knowledge base. This does for Documents what repo-browser does for repos. A local AI powered Document search engine  - linuxrebel/DocuBrowser", "user_name": "Github.com", "created_at": "2026-07-08T20:37:29Z"}
+{"text": "aipp-sdk 1.2.0. Official Python SDK for AIPP - The Lightning Network Split-Payment Gateway", "user_name": "Pypi.org", "created_at": "2026-07-08T20:36:34Z"}
+{"text": "athenaintel 0.1.1856. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-08T20:35:37Z"}
+{"text": "relata-sdk 0.2.3. Python SDK for the Relata enterprise-grade data engine", "user_name": "Pypi.org", "created_at": "2026-07-08T20:35:27Z"}
+{"text": "turbohtml 1.1.1. A fast, fully typed HTML toolkit for Python, powered by a C-accelerated core.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:34:09Z"}
+{"text": "routesmith-llm added to PyPI. Adaptive LLM execution engine - intelligent routing, cascading, caching, and budget management", "user_name": "Pypi.org", "created_at": "2026-07-08T20:33:25Z"}
+{"text": "chimeraboost 0.14.1. CatBoost-inspired gradient boosting in pure Python with a numba backend", "user_name": "Pypi.org", "created_at": "2026-07-08T20:32:34Z"}
+{"text": "btgsolutions-dataservices-python-client 4.4.2. Python package containing several classes and data for extracting and manipulating market and trading data.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:31:41Z"}
+{"text": "keeto 0.2.1. Zero-config AI observability for Python \u2014 automatic tracing, cost tracking, and dashboards for LLM calls and custom pipelines", "user_name": "Pypi.org", "created_at": "2026-07-08T20:30:57Z"}
+{"text": "nominal 1.152.1. Automate Nominal workflows in Python", "user_name": "Pypi.org", "created_at": "2026-07-08T20:30:35Z"}
+{"text": "glean-api-client 0.15.2. Python Client SDK Generated by Speakeasy.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:30:27Z"}
+{"text": "kasahare added to PyPI. A self-contained LLaMA-style inference engine with a Python binding.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:30:02Z"}
+{"text": "kasahare 0.1.0. A self-contained LLaMA-style inference engine with a Python binding.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:30:02Z"}
+{"text": "rigorloop added to PyPI. Statistically-sound agentic build framework: dev/val/test-split loops that produce code artifacts without overfitting.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:29:55Z"}
+{"text": "pyla-lang added to PyPI. Pyla: a small pipeline-first scripting language (with an optional Gen Z dialect, no cap)", "user_name": "Pypi.org", "created_at": "2026-07-08T20:29:52Z"}
+{"text": "athenaintel 0.1.1855. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-08T20:27:53Z"}
+{"text": "baml-bridge 0.14.0. BAML python bindings (new system, bex_engine)", "user_name": "Pypi.org", "created_at": "2026-07-08T20:27:14Z"}
+{"text": "pycat-napari 1.5.293. Python Condensate Analysis Toolbox - A napari-based tool for biomolecular condensate analysis", "user_name": "Pypi.org", "created_at": "2026-07-08T20:26:14Z"}
+{"text": "silabeador 1.2.4. A Python library of methods and functions for syllabic division and prosodic stress detecting for Spanish", "user_name": "Pypi.org", "created_at": "2026-07-08T20:26:05Z"}
+{"text": "infrahouse-core 1.1.2. Lightweight Python library with AWS and other general purpose classes.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:23:27Z"}
+{"text": "meander-agent 0.2.0. Typed Python client for integrating agents with meander.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:22:25Z"}
+{"text": "package-for-testing-gh-actions 0.1.13. A sample Python project", "user_name": "Pypi.org", "created_at": "2026-07-08T20:21:40Z"}
+{"text": "moorcheh-edge 0.2.3. Python client and SDK for moorcheh-edge \u2014 on-device vector search", "user_name": "Pypi.org", "created_at": "2026-07-08T20:21:38Z"}
+{"text": "logduo added to PyPI. Logging, console, and file management for Python. Works in scripts and interactive sessions with no setup, but supports extensive customization.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:20:26Z"}
+{"text": "awesome-errors 0.4.0. A comprehensive error handling library for Python applications with i18n support", "user_name": "Pypi.org", "created_at": "2026-07-08T20:18:19Z"}
+{"text": "doltlite 0.11.27. Python loader for doltlite \u2014 Dolt version control through SQLite's drop-in API.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:16:32Z"}
+{"text": "fastobjects 0.3.1. The fastest 2D object rendering library for Python", "user_name": "Pypi.org", "created_at": "2026-07-08T20:14:24Z"}
+{"text": "biolm-sdk 1.0.1. BioLM Python client for the hosted platform and biolm-hub", "user_name": "Pypi.org", "created_at": "2026-07-08T20:12:54Z"}
+{"text": "project-git-release-connector-gitea added to PyPI. project-git-release - Gitea Connector", "user_name": "Pypi.org", "created_at": "2026-07-08T20:12:47Z"}
+{"text": "quantfinlab added to PyPI. Reusable quantitative finance research library extracted from the Quantitative Finance Lab notebook projects", "user_name": "Pypi.org", "created_at": "2026-07-08T20:10:24Z"}
+{"text": "PyHydroGeophysX 0.3.0. A comprehensive Python package for integrating hydrological model outputs with geophysical forward modeling and inversion, featuring an automatic cross-modal geophysics agent for subsurface hydrology", "user_name": "Pypi.org", "created_at": "2026-07-08T20:09:57Z"}
+{"text": "stubbornly added to PyPI. A retry library that never hides your errors.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:09:48Z"}
+{"text": "seekrai 0.24.0. Python client for SeekrAI", "user_name": "Pypi.org", "created_at": "2026-07-08T20:04:51Z"}
+{"text": "dagron-sdk 0.3.0. Author dagron DAGs in Python and drive the dagron-api control plane (runs, workflows, schedules).", "user_name": "Pypi.org", "created_at": "2026-07-08T20:03:54Z"}
+{"text": "Show HN: Skill-extractor turns coding agent transcripts into reusable skills. Mine reusable skills from your coding agents' transcripts (Claude Code, Codex CLI, or any agent) with outcome-weighted scoring and a local review queue - surenode-ai/skill-extractor", "user_name": "Github.com", "created_at": "2026-07-08T20:03:16Z"}
+{"text": "convexity-sdk 0.17.0.dev319. Convexity Python SDK - programmatic access to the Convexity platform", "user_name": "Pypi.org", "created_at": "2026-07-08T20:02:12Z"}
+{"text": "interlock-cb 1.3.0. A modern circuit breaker for Python: sync + async, sliding-window rate, slow-call detection, type-safe API.", "user_name": "Pypi.org", "created_at": "2026-07-08T20:01:27Z"}
+{"text": "astreum 0.8.0. Python library to interact with the Astreum blockchain and its virtual machine.", "user_name": "Pypi.org", "created_at": "2026-07-08T19:59:41Z"}
+{"text": "porter-sandbox 0.1.32. Python SDK for the Porter Sandbox API", "user_name": "Pypi.org", "created_at": "2026-07-08T19:59:25Z"}
+{"text": "grawgo 2.3.0. A python lib to use the grawGo api", "user_name": "Pypi.org", "created_at": "2026-07-08T19:58:07Z"}
+{"text": "pyhdb-rs 0.3.12. High-performance Python driver for SAP HANA with native Arrow support", "user_name": "Pypi.org", "created_at": "2026-07-08T19:57:25Z"}
+{"text": "Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic)). Slughorn: Applying Slug-Style GPU Curve Rendering Beyond Text \u00a0 On March 17th 2026, Eric Lengyel made his Slug technique completely patent-unencumbered ( https://terathon.com/blog/decade-slug.html ) . \u00a0 As long-time graphics programmers and open source contri\u2026", "user_name": "Alphapixeldev.com", "created_at": "2026-07-08T19:57:07Z"}
+{"text": "combaero 0.4.0. Combustion and aerothermal tools (C++ core with Python bindings)", "user_name": "Pypi.org", "created_at": "2026-07-08T19:56:33Z"}
+{"text": "athenaintel 0.1.1854. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-08T19:56:02Z"}
+{"text": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials. Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]", "user_name": "BleepingComputer", "created_at": "2026-07-08T19:54:59Z"}
+{"text": "causalis 1.0.4. A Python toolkit for causal inference and experimentation", "user_name": "Pypi.org", "created_at": "2026-07-08T19:53:57Z"}
+{"text": "darkbot-templates 1.7.3. 40 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log, CSV, metrics, cache, pub/sub, state machine, file watcher, retry queue, signal handler, plugin loade\u2026", "user_name": "Pypi.org", "created_at": "2026-07-10T01:21:29Z"}
+{"text": "He Finally Landed His Dream Job, but Wasn\u2019t Prepared for the Mess He Inherited. All the data points to this being an exhausting situation. \nThe post He Finally Landed His Dream Job, but Wasn\u2019t Prepared for the Mess He Inherited appeared first on TwistedSifter.", "user_name": "Twistedsifter.com", "created_at": "2026-07-10T01:21:17Z"}
+{"text": "php-parser-py 1.2.5. Python wrapper for PHP-Parser using cpg2py", "user_name": "Pypi.org", "created_at": "2026-07-10T01:18:51Z"}
+{"text": "tempestweb 0.10.0. Build web apps in typed Python \u2014 one tree, a DOM renderer, three execution modes (WASM + server + transpile).", "user_name": "Pypi.org", "created_at": "2026-07-10T01:18:14Z"}
+{"text": "gumloop 0.3.3. Python client for the Gumloop API", "user_name": "Pypi.org", "created_at": "2026-07-10T01:17:54Z"}
+{"text": "php-cs-fixer-py 0.1.4. Python wrapper for PHP-CS-Fixer with a bundled static PHP binary", "user_name": "Pypi.org", "created_at": "2026-07-10T01:16:37Z"}
+{"text": "tdfpy 2.2.0. Python package for parsing Bruker timsTOF data with centroiding and noise filtering", "user_name": "Pypi.org", "created_at": "2026-07-10T01:15:56Z"}
+{"text": "paybond-kit 0.12.3. Paybond Kit for Python: agent spend governance for paid tool calls with spend authorization, evidence receipts, refunds, disputes, hosted Gateway sessions, and settlement.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:15:53Z"}
+{"text": "iicp-client 0.7.83. Use the open IICP AI mesh from Python without running a node", "user_name": "Pypi.org", "created_at": "2026-07-10T01:14:28Z"}
+{"text": "paper-xlsx 0.1.0. A Python library to read/write Excel 2010 xlsx/xlsm files", "user_name": "Pypi.org", "created_at": "2026-07-10T01:14:24Z"}
+{"text": "paper-xlsx added to PyPI. A Python library to read/write Excel 2010 xlsx/xlsm files", "user_name": "Pypi.org", "created_at": "2026-07-10T01:14:23Z"}
+{"text": "mzmlpy 0.5.0. A lightweight Python library for parsing mzML mass spectrometry files.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:14:12Z"}
+{"text": "vercel-agent-browser added to PyPI. Type-safe Pydantic wrapper around Vercel's agent-browser CLI", "user_name": "Pypi.org", "created_at": "2026-07-10T01:11:58Z"}
+{"text": "simulo 0.8.0. Simulo SDK and CLI \u2014 define robotics simulation and training apps in Python and run them on the Simulo cloud.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:11:48Z"}
+{"text": "php-parser-py 1.2.4. Python wrapper for PHP-Parser using cpg2py", "user_name": "Pypi.org", "created_at": "2026-07-10T01:09:36Z"}
+{"text": "php-cs-fixer-py 0.1.3. Python wrapper for PHP-CS-Fixer with a bundled static PHP binary", "user_name": "Pypi.org", "created_at": "2026-07-10T01:08:59Z"}
+{"text": "php-cs-fixer-py added to PyPI. Python wrapper for PHP-CS-Fixer with a bundled static PHP binary", "user_name": "Pypi.org", "created_at": "2026-07-10T01:08:59Z"}
+{"text": "darkbot-templates 1.7.2. 38 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log, CSV, metrics, cache, pub/sub, state machine, file watcher, retry queue.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:08:41Z"}
+{"text": "turbohtml 1.3.0. A fast, fully typed HTML toolkit for Python, powered by a C-accelerated core.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:08:36Z"}
+{"text": "license-audit 0.12.1. Analyze dependency licenses for Python projects, with compatibility checks and outbound license recommendations", "user_name": "Pypi.org", "created_at": "2026-07-10T01:06:48Z"}
+{"text": "pydocs-mcp-eval added to PyPI. Benchmark suite for pydocs-mcp (RepoQA-SNF + MLflow)", "user_name": "Pypi.org", "created_at": "2026-07-10T01:04:55Z"}
+{"text": "pytao 1.1.1. PyTao is the Python interface for Bmad's Tao", "user_name": "Pypi.org", "created_at": "2026-07-10T01:02:47Z"}
+{"text": "Unified-python-sdk 0.59.5. Python Client SDK for Unified.to", "user_name": "Pypi.org", "created_at": "2026-07-10T01:01:51Z"}
+{"text": "context.dev 2.2.0. The official Python library for the context.dev API", "user_name": "Pypi.org", "created_at": "2026-07-10T01:01:51Z"}
+{"text": "iptocc 3.3.70. Fast, offline IP-to-country lookup. Python bindings over the Rust iptocc crate.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:01:26Z"}
+{"text": "darkbot-templates 1.7.1. 37 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log, CSV, metrics, cache, pub/sub, state machine, file watcher.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:00:49Z"}
+{"text": "divineapi 1.3.0. Official Python SDK for the Divine API - Astrology, Numerology, Tarot & more", "user_name": "Pypi.org", "created_at": "2026-07-10T00:59:40Z"}
+{"text": "latchgate 0.2.0. Python SDK for the LatchGate action authorization gateway", "user_name": "Pypi.org", "created_at": "2026-07-10T00:59:22Z"}
+{"text": "modal 1.5.2.dev22. Python client library for Modal", "user_name": "Pypi.org", "created_at": "2026-07-10T00:57:22Z"}
+{"text": "bolthub 0.5.0. The bolthub payments SDK for Python: charge for an MCP tool or HTTP endpoint, and pay for them, over Lightning (L402)", "user_name": "Pypi.org", "created_at": "2026-07-10T00:57:20Z"}
+{"text": "openlinktoken 2.0.0. Open Link Token Python core library for record linkage", "user_name": "Pypi.org", "created_at": "2026-07-10T00:55:45Z"}
+{"text": "gr4vy 2.2.9. Python Client SDK Generated by Speakeasy.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:55:10Z"}
+{"text": "gstreamer-python 1.28.5. Python bindings and plugins for GStreamer", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:40Z"}
+{"text": "flint-core 0.4.4. A minimalist, agnostic Python framework to standardize data engineering pipelines.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:26Z"}
+{"text": "irtsp 0.2.0. Friendly Python client for iRTSP \u2014 typed, time-synced iPhone camera + IMU / GPS / LiDAR-depth / ARKit-pose streams", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:12Z"}
+{"text": "paybond-kit 0.12.2. Paybond Kit for Python: agent spend governance for paid tool calls with spend authorization, evidence receipts, refunds, disputes, hosted Gateway sessions, and settlement.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:12Z"}
+{"text": "mixin-suite 0.1.0. Composable mixins for Python services: structured logging with correlation IDs and sensitive data classification.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:10Z"}
+{"text": "mixin-suite added to PyPI. Composable mixins for Python services: structured logging with correlation IDs and sensitive data classification.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:54:04Z"}
+{"text": "openlinktoken added to PyPI. Open Link Token Python core library for record linkage", "user_name": "Pypi.org", "created_at": "2026-07-10T00:52:47Z"}
+{"text": "darkbot-templates 1.7.0. 35 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log, CSV, metrics, cache, pub/sub.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:51:08Z"}
+{"text": "furu 0.0.62. Reproducible experiments in plain Python: cached results and dependency-aware execution.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:50:42Z"}
+{"text": "lilbee 0.6.90b420.dev712. Run and manage local AI models, then search your files, code, and the web pages you crawl, with answers that cite the source. Everything runs on your machine in one process: per-project libraries, semantic and hybrid search, vision OCR, an auto-built wiki, CL\u2026", "user_name": "Pypi.org", "created_at": "2026-07-10T00:48:27Z"}
+{"text": "qolsys-controller 1.5.3. A Python module that emulates a virtual IQ Remote device, enabling full local control of a Qolsys IQ Panel", "user_name": "Pypi.org", "created_at": "2026-07-10T00:48:11Z"}
+{"text": "pycolvars 0.1.0. Python tools to post-process and analyze metadynamics / collective variable data", "user_name": "Pypi.org", "created_at": "2026-07-10T00:48:01Z"}
+{"text": "pycolvars added to PyPI. Python tools to post-process and analyze metadynamics / collective variable data", "user_name": "Pypi.org", "created_at": "2026-07-10T00:47:56Z"}
+{"text": "por-que 0.5.0. Pure-python parquet parser, for education", "user_name": "Pypi.org", "created_at": "2026-07-10T00:47:36Z"}
+{"text": "akadako 1.0.1. Python library for the AkaDako board (TFabWorks)", "user_name": "Pypi.org", "created_at": "2026-07-10T00:47:23Z"}
+{"text": "pywaveout 1.0.1. A simple Python wrapper for the low-level Windows waveOut API using ctypes.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:45:05Z"}
+{"text": "darkbot-templates 1.6.9. 33 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log analyzer, CSV, metrics.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:44:04Z"}
+{"text": "mermaidx added to PyPI. Python-native Mermaid diagram converter \u2013 no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/CD pipelines.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:43:51Z"}
+{"text": "mermaidx 0.8.0. Python-native Mermaid diagram converter \u2013 no browser, Node.js, or npm required. Renders diagrams to SVG/PNG/PDF using an embedded QuickJS engine and resvg, perfect for documentation automation and CI/CD pipelines.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:43:51Z"}
+{"text": "athenaintel 0.1.1896. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-10T00:43:33Z"}
+{"text": "uipath 2.13.9. Python SDK and CLI for UiPath Platform, enabling programmatic interaction with automation services, process management, and deployment tools.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:43:01Z"}
+{"text": "pywaveout added to PyPI. A simple Python wrapper for the low-level Windows waveOut API using ctypes.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:42:52Z"}
+{"text": "pywaveout 1.0.0. A simple Python wrapper for the low-level Windows waveOut API using ctypes.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:42:52Z"}
+{"text": "museq 0.58.0. Self-hostable OpenAI-compatible multi-modality AI server: 20 modalities (chat, image, audio, video, 3D, embeddings, OCR, segmentation), plugin runtimes (PyTorch, diffusers, llama-cpp-python).", "user_name": "Pypi.org", "created_at": "2026-07-10T00:42:23Z"}
+{"text": "robodock-sdk 0.1.13. Python SDK for RoboDock Platform - Data and Model Management", "user_name": "Pypi.org", "created_at": "2026-07-10T00:38:21Z"}
+{"text": "flexinference 1.5.2. Official Python SDK for FlexInference - a deadline-aware, OpenAI-compatible inference router.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:38:21Z"}
+{"text": "orb-billing 4.55.2. The official Python library for the orb API", "user_name": "Pypi.org", "created_at": "2026-07-10T00:38:16Z"}
+{"text": "darkbot-templates 1.6.8. 32 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log analyzer, CSV processor.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:38:03Z"}
+{"text": "margen 0.1.8. Python Client SDK Generated by Speakeasy.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:37:47Z"}
+{"text": "maton-ai 0.1.0. Official Python SDK for Maton \u2014 connect and automate 150+ apps.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:35:33Z"}
+{"text": "humanos 1.0.9. Official Humanos API SDK for Python with automatic request signing and webhook verification", "user_name": "Pypi.org", "created_at": "2026-07-10T00:34:23Z"}
+{"text": "ordeal 0.3.40. Automated chaos testing for Python \u2014 fault injection, property assertions, and stateful exploration.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:33:46Z"}
+{"text": "axonflow 8.5.1. AxonFlow Python SDK - Enterprise AI Governance in 3 Lines of Code", "user_name": "Pypi.org", "created_at": "2026-07-10T00:30:54Z"}
+{"text": "darkbot-templates 1.6.7. 30 production-ready Python templates: JWT auth, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:29:32Z"}
+{"text": "pyrig 17.9.1. A tool that standardizes and automates Python project setup, configuration, development, and maintenance.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:29:27Z"}
+{"text": "pydlock 2.0.3. Dead-simple password-based file encryption for the command line and Python (scrypt + Fernet).", "user_name": "Pypi.org", "created_at": "2026-07-10T00:29:13Z"}
+{"text": "xleda 0.9.13. xleda is a Python/Excel powered EDA tool", "user_name": "Pypi.org", "created_at": "2026-07-10T00:29:00Z"}
+{"text": "static-php-py 0.1.6. Python wrapper library for static PHP binaries; code-only execution library", "user_name": "Pypi.org", "created_at": "2026-07-10T00:28:12Z"}
+{"text": "sage-agent-sdk 11.4.9. Python SDK for SAGE \u2014 Sovereign Agent Governed Experience. Persistent, consensus-validated memory for AI agents.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:25:45Z"}
+{"text": "robodock-sdk 0.1.12. Python SDK for RoboDock Platform - Data and Model Management", "user_name": "Pypi.org", "created_at": "2026-07-10T00:25:39Z"}
+{"text": "dybuf 0.4.4. Python bindings for the dybuf dynamic buffer library.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:25:17Z"}
+{"text": "nyora 2.0.3. The manga reader SDK for Python \u2014 build a manga/manhwa/manhua reader with 363 working sources across 40 languages through one typed cloud API. A programmatic Tachiyomi/Mihon/Kotatsu alternative, with a CLI and terminal reader (TUI).", "user_name": "Pypi.org", "created_at": "2026-07-10T00:24:57Z"}
+{"text": "meander-agent 0.2.1. Typed Python client for integrating agents with meander.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:24:36Z"}
+{"text": "mostlyrightmd-markets 1.15.0. Prediction-market data for Python \u2014 Kalshi NHIGH/NLOW weather-contract resolvers, Polymarket discovery + settlement, and Kalshi + Polymarket trade history. For quants, backtesting, and ML training pipelines. Imports as `mostlyright.markets`.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:23:48Z"}
+{"text": "mostlyrightmd-weather 1.15.0. Weather data for Python \u2014 live METAR (AWC), ASOS archive (IEM), historical observations (GHCNh), and NWS climate text products (CLI). For quants, ML training pipelines, and weather-bot agents. Direct public-API access, no hosted backend. Imports as `mostlyrig\u2026", "user_name": "Pypi.org", "created_at": "2026-07-10T00:23:48Z"}
+{"text": "python-voiceio 0.5.0. Voice dictation for Linux. Speak \u2192 text, locally, instantly.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:23:29Z"}
+{"text": "athenaintel 0.1.1895. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-10T00:23:05Z"}
+{"text": "darkbot-templates 1.6.6. 29 production-ready Python templates: JWT auth, rate limiter, webhook, task queue, config loader, Docker health, crypto wallet, email, cron, HTTP client with circuit breaker.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:22:48Z"}
+{"text": "harbor-python 1.3.0. Async local client for Harbor Sleep Cameras", "user_name": "Pypi.org", "created_at": "2026-07-10T00:22:27Z"}
+{"text": "robodock-sdk 0.1.11. Python SDK for RoboDock Platform - Data and Model Management", "user_name": "Pypi.org", "created_at": "2026-07-10T00:22:18Z"}
+{"text": "inkbox 0.4.20. Python SDK for the Inkbox API", "user_name": "Pypi.org", "created_at": "2026-07-10T00:20:34Z"}
+{"text": "openrewrite 8.87.0.dev20260710001450. OpenRewrite automated refactoring for Python.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:19:54Z"}
+{"text": "sahmk 0.12.1. Official Python SDK for Sahmk \u2014 Saudi market data and richer market workflows for developers.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:19:08Z"}
+{"text": "ptr727-aiopurpleair 1.0.20. Async Python client for the PurpleAir API, with the organization endpoint and typed error codes.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:18:52Z"}
+{"text": "tdom 0.1.18. A  rockin' t-string HTML templating system for Python 3.14.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:18:42Z"}
+{"text": "ptr727-aiopurpleair 1.0.13.dev0. Async Python client for the PurpleAir API, with the organization endpoint and typed error codes.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:17:17Z"}
+{"text": "runtimed 2.6.4a202607092333. Python toolkit for Jupyter runtimes, powered by runtimed Rust binaries", "user_name": "Pypi.org", "created_at": "2026-07-10T00:17:12Z"}
+{"text": "zaphodvox 2.0.0. A command-line interface and python library for encoding text into synthetic speech using a locally-hosted Qwen3-TTS server, with tools for cleaning and proofreading the text.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:16:07Z"}
+{"text": "pysidtracker 0.3.0. Shared base for pure-Python C64 SID tracker parsers: PSID/RSID container, loaded-image model, and packed/relocating playroutine detection", "user_name": "Pypi.org", "created_at": "2026-07-10T00:15:01Z"}
+{"text": "pydexomizer 0.1.0. Pure-Python decompressor for Commodore exomizer data (raw, mem, level, sfx).", "user_name": "Pypi.org", "created_at": "2026-07-10T00:14:17Z"}
+{"text": "pydexomizer added to PyPI. Pure-Python decompressor for Commodore exomizer data (raw, mem, level, sfx).", "user_name": "Pypi.org", "created_at": "2026-07-10T00:14:12Z"}
+{"text": "rankops 0.1.23. Python bindings for rankops (Rust) \u2014 fusion and reranking for hybrid search.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:13:35Z"}
+{"text": "nyora 2.0.2. Python cloud client for Nyora \u2014 script your manga library, browse ~960 sources, and read in the terminal (TUI), with cloud sync.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:13:22Z"}
+{"text": "darkbot-templates 1.6.4. 26 production-ready Python templates: JWT auth, rate limiter, webhook server, task queue, config loader, Docker health, crypto wallet.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:12:42Z"}
+{"text": "letmesendemail added to PyPI. letmesend.email Python SDK.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:11:28Z"}
+{"text": "letmesendemail 0.1.0. letmesend.email Python SDK.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:11:28Z"}
+{"text": "trycourier 7.19.2. The official Python library for the Courier API", "user_name": "Pypi.org", "created_at": "2026-07-10T00:09:21Z"}
+{"text": "filings-cvm 0.6.0. Simple and efficient Python library to interact with CVM regulatory filings.", "user_name": "Pypi.org", "created_at": "2026-07-10T00:09:16Z"}
+{"text": "openrouter 0.11.18. Official Python Client SDK for OpenRouter.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:24:55Z"}
+{"text": "httpunk added to PyPI. The Rust HTTP library for Python", "user_name": "Pypi.org", "created_at": "2026-07-10T01:34:05Z"}
+{"text": "par-term-emu-core-rust 0.45.0. A comprehensive terminal emulator library in Rust with Python bindings - supports true color, alt screen, mouse reporting, bracketed paste, and full Unicode", "user_name": "Pypi.org", "created_at": "2026-07-10T01:33:13Z"}
+{"text": "medfl 2.0.10.dev1. Python Open-source package for simulating federated learning and differential privacy", "user_name": "Pypi.org", "created_at": "2026-07-10T01:32:00Z"}
+{"text": "forte-sdk 1.0.279. Official Python SDK for Forte Platforms", "user_name": "Pypi.org", "created_at": "2026-07-10T01:31:58Z"}
+{"text": "pywaveout 1.0.2. A simple Python wrapper for the Windows waveOut API using ctypes.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:30:59Z"}
+{"text": "the-almanac 0.3.1. A Python product kernel for Almanac.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:29:33Z"}
+{"text": "monarchic-agent-protocol 0.1.17. Monarchic AI protocol protobuf bindings for Python", "user_name": "Pypi.org", "created_at": "2026-07-10T01:38:11Z"}
+{"text": "azure-template 0.1.0b6543814. Microsoft Azure Template Package Client Library for Python", "user_name": "Pypi.org", "created_at": "2026-07-10T01:38:05Z"}
+{"text": "loki-mode-sdk 7.128.1. Python SDK for Loki Mode - autonomous multi-agent development platform", "user_name": "Pypi.org", "created_at": "2026-07-10T01:36:33Z"}
+{"text": "httpunk 0.1.0a1. The Rust HTTP library for Python", "user_name": "Pypi.org", "created_at": "2026-07-10T01:35:53Z"}
+{"text": "ciris-verify 8.10.1. Python bindings for CIRISVerify hardware-rooted license verification", "user_name": "Pypi.org", "created_at": "2026-07-10T01:35:51Z"}
+{"text": "mhctools 3.26.0. Python interface to MHC binding, presentation, immunogenicity, and antigen processing predictors", "user_name": "Pypi.org", "created_at": "2026-07-10T01:35:44Z"}
+{"text": "darkbot-templates 1.7.4. 41 production-ready Python templates: JWT, rate limiter, webhook, task queue, config, Docker health, crypto wallet, email, cron, HTTP client, SQLite ORM, log, CSV, metrics, cache, pub/sub, state machine, file watcher, retry, signal, plugin, connection pool.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:35:28Z"}
+{"text": "mxframe 0.2.3. GPU-accelerated DataFrame engine: Python ergonomics + Mojo AOT kernels, cross-vendor (NVIDIA/AMD/Apple).", "user_name": "Pypi.org", "created_at": "2026-07-10T01:35:03Z"}
+{"text": "qdsv-bridge 0.1.6. Lightweight Python client for QDSV Bridge, a controlled semantic-to-circuit compiler with family-based export modes.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:43:23Z"}
+{"text": "superbuilders-authz added to PyPI. Track A (FERPA/COPPA) application-layer authorization resolver (PDP+PEP) \u2014 Python sibling of @superbuilders/authz for bridge's Python tier.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:42:49Z"}
+{"text": "gatus-api 1.0.2. An asynchronous Python client for the Gatus API", "user_name": "Pypi.org", "created_at": "2026-07-10T01:42:07Z"}
+{"text": "athenaintel 0.1.1897. Athena Intelligence Python Library", "user_name": "Pypi.org", "created_at": "2026-07-10T01:41:42Z"}
+{"text": "the-almanac 0.3.2. A Python product kernel for Almanac.", "user_name": "Pypi.org", "created_at": "2026-07-10T01:40:30Z"}
+{"text": "eventa added to PyPI. Lightweight, local-first event analytics SDK for Python applications", "user_name": "Pypi.org", "created_at": "2026-07-10T01:39:52Z"}
